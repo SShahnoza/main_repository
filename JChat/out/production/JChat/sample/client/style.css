@@ -1,0 +1,7 @@
+.list-cell:filled:selected:focused, list-cell:filled:selected {
+    -fx-background-color: linear-gradient(#ffffff 0%, #7777ff 100%);
+}
+
+.list-cell:even {
+    -fx-background-color: #ccccff;
+}
