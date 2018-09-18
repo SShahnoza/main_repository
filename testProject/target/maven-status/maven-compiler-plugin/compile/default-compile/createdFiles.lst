@@ -1,9 +1,0 @@
-com\test\configuration\WebAppInitialiser.class
-com\test\data\Item.class
-com\test\data\ListOfItems.class
-com\test\configuration\WebConfiguration.class
-com\test\controller\SocketController.class
-com\test\configuration\SocketConfiguration.class
-com\test\data\Monitoring.class
-com\test\configuration\RootConfiguration.class
-com\test\controller\HomeController.class
